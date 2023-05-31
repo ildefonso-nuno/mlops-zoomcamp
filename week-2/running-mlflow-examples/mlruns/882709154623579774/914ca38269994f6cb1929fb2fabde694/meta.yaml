@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nildefonso/Zoomcamps/git/mlops-zoomcamp/week-2/running-mlflow-examples/mlruns/882709154623579774/914ca38269994f6cb1929fb2fabde694/artifacts
+end_time: 1685442205089
+entry_point_name: ''
+experiment_id: '882709154623579774'
+lifecycle_stage: active
+run_id: 914ca38269994f6cb1929fb2fabde694
+run_name: gaudy-finch-417
+run_uuid: 914ca38269994f6cb1929fb2fabde694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685442202570
+status: 3
+tags: []
+user_id: nildefonso

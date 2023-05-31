@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nildefonso/Zoomcamps/git/mlops-zoomcamp/week-2/homework/mlruns/583123205810079212/06fd3168632741339f0b91ce7bdd95ab/artifacts
+end_time: 1685450791688
+entry_point_name: ''
+experiment_id: '583123205810079212'
+lifecycle_stage: active
+run_id: 06fd3168632741339f0b91ce7bdd95ab
+run_name: redolent-sloth-551
+run_uuid: 06fd3168632741339f0b91ce7bdd95ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685450784133
+status: 3
+tags: []
+user_id: nildefonso

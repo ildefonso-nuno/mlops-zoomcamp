@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nildefonso/Zoomcamps/git/mlops-zoomcamp/week-2/homework/mlruns/583123205810079212/7fbfb6d739d34472ae44289a46ec5aaf/artifacts
+end_time: 1685450681963
+entry_point_name: ''
+experiment_id: '583123205810079212'
+lifecycle_stage: active
+run_id: 7fbfb6d739d34472ae44289a46ec5aaf
+run_name: serious-toad-100
+run_uuid: 7fbfb6d739d34472ae44289a46ec5aaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685450681941
+status: 4
+tags: []
+user_id: nildefonso
